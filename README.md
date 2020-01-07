@@ -1,5 +1,6 @@
 # Turkey Avocalgorithm for Traveling Purchaser Problem
 UC Berkeley CS 170 Fall 2019 Project
+
 Name of the algorithm inspired by our favorite food at UC Berkeley: turkey avocado sandwich
 
 ## Overview
