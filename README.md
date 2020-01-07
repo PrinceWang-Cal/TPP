@@ -17,7 +17,7 @@ For more details please refer to: https://networkx.github.io/
 
 Install <a href="https://networkx.github.io/" target="_blank">networkx</a>. The latest(2.5) version is not needed.
 
-To install networkx for Python:
+To install networkx for Python through pip:
 ```bash
 pip install networkx
 ```
