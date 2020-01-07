@@ -1,5 +1,6 @@
 # Turkey Avocalgorithm for Traveling Purchaser Problem
 UC Berkeley CS 170 Fall 2019 Project
+Name of the algorithm inspired by our favorite food at UC Berkeley: turkey avocado sandwich
 
 ## Overview
 This is a solver that computes suboptimal paths for a variant of the traveling purchaser problem, which is a well-known NP hard problem. Given a weighted graph represented by an adjacency matrix, a starting location(node) and a series of markets(nodes), our solver gives a solution for a optimal path with drop-off locations.
